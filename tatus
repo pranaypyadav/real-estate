@@ -1,0 +1,67 @@
+[33mcommit 2d1154552871a3328b11c66a08deabe2038e25e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mheader[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 213568e 3fcb648
+Author: Pranay Yadav <137748251+pranaypyadav@users.noreply.github.com>
+Date:   Sat May 25 08:57:10 2024 +0530
+
+    Merge pull request #2 from pranaypyadav/developement
+    
+    added routing to pages
+
+[33mcommit 3fcb648c43241793eb1c51b20bc1c74636b2c4fd[m[33m ([m[1;31morigin/developement[m[33m, [m[1;32mdevelopement[m[33m)[m
+Author: Pranay Yadav <pranayyadav7272@gmail.com>
+Date:   Sat May 25 08:49:48 2024 +0530
+
+    added routing to pages
+
+[33mcommit 213568e101782c487b9e6a49ee6f3cdc14d56938[m
+Merge: 38b8786 7612b4b
+Author: Pranay Yadav <pranayyadav7272@gmail.com>
+Date:   Sat May 25 08:30:08 2024 +0530
+
+    added sigin file
+
+[33mcommit 7612b4b35bc4a621c43b4e0fc3ccc25cc7cd7c6c[m
+Author: Pranay Yadav <pranayyadav7272@gmail.com>
+Date:   Sat May 25 08:28:05 2024 +0530
+
+    added sigin page
+
+[33mcommit 38b87863e9f13f6169099ba9d71dcf2193defa51[m
+Merge: d6429f9 cee4d8c
+Author: Pranay Yadav <pranayyadav7272@gmail.com>
+Date:   Sat May 25 08:25:56 2024 +0530
+
+    committed
+
+[33mcommit cee4d8c060f16ddfe918c8f9f5d809a7e6594205[m
+Author: Pranay Yadav <pranayyadav7272@gmail.com>
+Date:   Sat May 25 08:20:25 2024 +0530
+
+    added custom hooks
+
+[33mcommit d6429f950699a16bd1a5332eb314f3eced0cfb1b[m
+Merge: c7df1a0 1205f12
+Author: Pranay Yadav <137748251+pranaypyadav@users.noreply.github.com>
+Date:   Sat May 25 08:12:22 2024 +0530
+
+    Merge pull request #1 from pranaypyadav/developement
+    
+    added redux files
+
+[33mcommit 1205f126c29e5f889af7d9d5c475e0c3925f4caa[m
+Author: Pranay Yadav <pranayyadav7272@gmail.com>
+Date:   Sat May 25 08:11:34 2024 +0530
+
+    added redux files
+
+[33mcommit c7df1a08da668b4bb69746e6bce0d583d876b025[m
+Author: Pranay Yadav <pranayyadav7272@gmail.com>
+Date:   Sat May 25 08:09:47 2024 +0530
+
+    initial commit
+
+[33mcommit 3fcc6c78f05fa09598a3e49a05c5861d7ada6fa2[m
+Author: Pranay Yadav <137748251+pranaypyadav@users.noreply.github.com>
+Date:   Sat May 25 08:06:53 2024 +0530
+
+    Initial commit
