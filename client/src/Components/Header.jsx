@@ -10,11 +10,12 @@ const Header = () => {
 
     return (
         <header className=' bg-slate-200 shadow-md '>
-            <div className='flex justify-between p-2 mx-auto max-w-6xl'>
-                <h1 className=' font-bold text-sm sm:text-xl flex flex-wrap  '>
+            <div className='flex justify-between items-center p-2 mx-auto max-w-6xl'>
+
+                <Link to={'/'}><h1 className=' font-bold text-sm sm:text-xl flex flex-wrap  '>
                     <span>Real </span>
                     <span>Estate</span>
-                </h1>
+                </h1></Link>
                 <form onSubmit={handleSearchSubmit} className=' bg-slate-100 p-3 rounded-lg flex items-center justify-between w-24 sm:w-64 '>
                     <input type="text" placeholder='Search...' className=' outline-none bg-transparent ' />
                     <FaSearch className=' text-slate-600'></FaSearch>
