@@ -3,9 +3,6 @@ import { FaSearch } from "react-icons/fa"
 import { Link } from 'react-router-dom'
 
 const Header = () => {
-    function handleSearchSubmit(e) {
-        e.preventDefault()
-    }
 
 
     return (
@@ -16,7 +13,7 @@ const Header = () => {
                     <span>Real </span>
                     <span>Estate</span>
                 </h1></Link>
-                <form onSubmit={handleSearchSubmit} className=' bg-slate-100 p-3 rounded-lg flex items-center justify-between w-24 sm:w-64 '>
+                <form  className=' bg-slate-100 p-3 rounded-lg flex items-center justify-between w-24 sm:w-64 '>
                     <input type="text" placeholder='Search...' className=' outline-none bg-transparent ' />
                     <FaSearch className=' text-slate-600'></FaSearch>
                 </form>
